@@ -1,7 +1,5 @@
 # React Introduction Notes
 
-This README is organized as a classroom presentation handout for an introductory React session.
-
 ## 1. Class Context
 
 - Course: Web Technology and Internet
